@@ -1,25 +1,90 @@
-## Hi there 👋
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Mukesh Samarit</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+# 👋 Hey, I'm Mukesh Samarit
 
-- 🔭 I’m currently working on **Zetheta Projects**
+### 📊 Data Analyst | India
 
-- 🌱 I’m currently learning **Data Analytical Skills**
+*Turning data into insights, one query at a time.*
 
+[![GitHub](https://img.shields.io/badge/GitHub-MSDIAN124-181717?style=for-the-badge&logo=github)](https://github.com/MSDIAN124)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mukesh-samarit)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/mukesh_a_mystery)
+
+![Public repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMSDIAN124&query=%24.public_repos&label=Public%20repos&style=for-the-badge&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=MSDIAN124&style=for-the-badge&color=brightgreen)
+
+</div>
+
+---
+
+## 🙋‍♂️ About Me
+
+- 🔭 Currently working on **Zetheta Projects**
+- 🌱 Currently learning and improving my **data analytics skills**
 - 💬 Ask me about **Data Analysis**
+- 🎮 Fun fact: **I love playing games.**
+- 📫 Reach me at **[mukeshsamrit806@gmail.com](mailto:mukeshsamrit806@gmail.com)**
 
-- 📫 How to reach me **mukeshsamrit806@gmail.com**
+---
 
-- ⚡ Fun fact **I Love playing Games.**
+## 🧰 Languages & Tools
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mukesh-samarit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mukesh-samarit" height="30" width="40" /></a>
-<a href="https://instagram.com/mukesh_a_mystery" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mukesh_a_mystery" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="52" height="52" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="62" height="52" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="62" height="52" />
+  </a>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=msdian124&show_icons=true&locale=en&layout=compact" alt="msdian124" /></p>
+## 📈 GitHub Analytics
+
+<div align="center">
+
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MSDIAN124&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=tokyonight" alt="GitHub stats for MSDIAN124" />
+
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSDIAN124&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Most used languages" />
+
+</div>
+
+<div align="center">
+
+  <img width="70%" src="https://streak-stats.demolab.com?user=MSDIAN124&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
+</div>
+
+---
+
+## 📅 Contribution Activity
+
+<div align="center">
+
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=MSDIAN124&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
+
+</div>
+
+---
+
+## 🏆 Contribution Summary
+
+<div align="center">
+
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MSDIAN124&theme=tokyonight" alt="GitHub contribution summary" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Thanks for stopping by! ✨
+
+⭐ If you find something useful, feel free to explore my repositories and connect.
+
+</div>
