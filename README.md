@@ -96,12 +96,17 @@ A Power BI analytics project focused on auto-loan securitization and scenario-ba
 ## 📅 Contribution Activity
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=MSDIAN124&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
+
+  <a href="https://github.com/MSDIAN124">
+    <img
+      src="https://ghchart.rshah.org/0ea5e9/MSDIAN124"
+      alt="GitHub contribution activity for MSDIAN124"
+      width="95%"
+    />
+  </a>
+
 </div>
 
-
-
----
 
 ## 🏆 Contribution Summary
 
