@@ -39,12 +39,12 @@ I'm an aspiring data professional interested in transforming raw data into clear
 <div align="center">
 
 | Area | Tools |
-|---|---|
-| **Programming & Analysis** | Python, Pandas, NumPy |
-| **Databases & Querying** | SQL, MySQL, PostgreSQL |
-| **Spreadsheets** | Advanced Excel, PivotTables, Power Query |
-| **Business Intelligence** | Power BI, dashboarding, reporting |
-| **Visualization & ML** | Matplotlib, Plotly, scikit-learn |
+|------------------------------------------|------------------------------------------|
+|        **Programming & Analysis**        |          Python, Pandas, NumPy           |
+|        **Databases & Querying**          |          SQL, MySQL, PostgreSQL          |
+|        **Workbook & Spreadsheets**       | Advanced Excel, PivotTables, Power Query |
+| **Business Intelligence & Insights**     |     Power BI, dashboarding, reporting    |
+|          **Visualization & ML**          |     Matplotlib, Plotly, scikit-learn     |
 
 </div>
 
