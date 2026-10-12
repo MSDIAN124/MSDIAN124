@@ -83,7 +83,7 @@ A Power BI analytics project focused on auto-loan securitization and scenario-ba
 </div>
 
 <div align="center">
-  <img height="150" width="95%" src="https://streak-stats.demolab.com?user=MSDIAN124&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img width="95%" src="https://streak-stats.demolab.com?user=MSDIAN124&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </div>
 
 ---
