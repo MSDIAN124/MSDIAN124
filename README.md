@@ -79,15 +79,15 @@ A Power BI analytics project focused on auto-loan securitization and scenario-ba
 
 <div align="center">
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MSDIAN124&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=tokyonight" alt="GitHub stats for MSDIAN124" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=MSDIAN124&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=tokyonight" alt="GitHub stats for MSDIAN124" />
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSDIAN124&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Most used languages" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSDIAN124&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Most used languages" />
 
 </div>
 
 <div align="center">
 
-  <img width="70%" src="https://streak-stats.demolab.com?user=MSDIAN124&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img width="80%" src="https://streak-stats.demolab.com?user=MSDIAN124&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
 </div>
 
