@@ -9,7 +9,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-MSDIAN124-181717?style=for-the-badge&logo=github)](https://github.com/MSDIAN124)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mukesh-samarit)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/mukesh_a_mystery)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit%20Website-0ea5e9?style=for-the-badge")](https://mukesh-portfolio-navy.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-Website-0ea5e9?style=for-the-badge&logo=🌐")](https://mukesh-portfolio-navy.vercel.app/)
 
 ![Public repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMSDIAN124&query=%24.public_repos&label=Public%20repos&style=for-the-badge&color=blue)
 ![Profile views](https://komarev.com/ghpvc/?username=MSDIAN124&style=for-the-badge&color=brightgreen)
