@@ -6,10 +6,20 @@
 
 *Turning data into insights, one query at a time.*
 
-[![GitHub](https://img.shields.io/badge/GitHub-MSDIAN124-181717?style=for-the-badge&logo=github)](https://github.com/MSDIAN124)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mukesh-samarit)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/mukesh_a_mystery)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-Website-0ea5e9?style=for-the-badge")](https://mukesh-portfolio-navy.vercel.app/)
+<p>
+  <a href="https://mukesh-portfolio-navy.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit%20Website-0ea5e9?style=for-the-badge" alt="Visit portfolio" />
+  </a>
+  <a href="https://github.com/MSDIAN124">
+    <img src="https://img.shields.io/badge/GitHub-MSDIAN124-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
+  </a>
+  <a href="https://www.linkedin.com/in/mukesh-samarit">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn profile" />
+  </a>
+  <a href="mailto:mukeshsamarit806@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Mukesh" />
+  </a>
+</p>
 
 ![Public repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMSDIAN124&query=%24.public_repos&label=Public%20repos&style=for-the-badge&color=blue)
 ![Profile views](https://komarev.com/ghpvc/?username=MSDIAN124&style=for-the-badge&color=brightgreen)
