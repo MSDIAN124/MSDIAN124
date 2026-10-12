@@ -28,27 +28,52 @@ I'm an aspiring data professional interested in transforming raw data into clear
 - 🛠️ **Core tools:** Python, SQL, Excel, Power BI, and relational databases 
 - 🤝 **Open to:** Entry-level data analyst opportunities, collaborative projects, and learning from the data community
 - 💬 Ask me about **Data Analysis**
-- - 🎮 **Outside data:** I enjoy playing games
+- 🎮 **Outside data:** **I enjoy playing games**
 - 📫 Reach me at **[mukeshsamrit806@gmail.com](mailto:mukeshsamrit806@gmail.com)**
 
 > **Explore my work:** [mukesh-portfolio-navy.vercel.app](https://mukesh-portfolio-navy.vercel.app/)
 ---
 
-## 🧰 Languages & Tools
+## 🧰 Technical Toolkit
 
 <div align="center">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="52" height="52" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="62" height="52" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="62" height="52" />
-  </a>
+
+| Area | Tools |
+|---|---|
+| **Programming & Analysis** | Python, Pandas, NumPy |
+| **Databases & Querying** | SQL, MySQL, PostgreSQL |
+| **Spreadsheets** | Advanced Excel, PivotTables, Power Query |
+| **Business Intelligence** | Power BI, dashboarding, reporting |
+| **Visualization & ML** | Matplotlib, Plotly, scikit-learn |
+
 </div>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode" alt="Python, MySQL, PostgreSQL, Git, GitHub, and VS Code" />
+</p>
+
 ---
+
+
+## Featured Projects
+
+### 1. Data Science Salary Modeling — End-to-End ML Pipeline
+A machine-learning project exploring salary estimation from data science job postings. The workflow includes data preparation, preprocessing, model comparison, and an interactive application.
+
+**Tools:** Python · Pandas · scikit-learn · FastAPI · Streamlit · Plotly
+
+[View project on GitHub](https://github.com/MSDIAN124/Salary-Prediction-Model-Project-for-Internship)
+
+### 2. Auto Loan Securitization Analytics — Power BI
+A Power BI analytics project focused on auto-loan securitization and scenario-based analysis.
+
+**Tools:** Power BI · Data Analytics · Financial Scenario Analysis
+
+[View project repository](https://github.com/ZethetaIntern/ZeTheta-securitisation-project-3)
+
+---
+
+
 
 ## 📈 GitHub Analytics
 
@@ -88,10 +113,24 @@ I'm an aspiring data professional interested in transforming raw data into clear
 
 ---
 
+## Let's Connect
+
+I'm always happy to connect with people working in analytics, business intelligence, and data science.
+
+- 🌐 **Portfolio:** [Visit my website](https://mukesh-portfolio-navy.vercel.app/)
+- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/mukesh-samarit)
+- 💻 **GitHub:** [Explore my repositories](https://github.com/MSDIAN124)
+- ✉️ **Email:** [mukeshsamarit806@gmail.com](mailto:mukeshsamarit806@gmail.com)
+
+<div align="center">
+
+---
+
 <div align="center">
 
 ### Thanks for stopping by! ✨
 
-⭐ If you find something useful, feel free to explore my repositories and connect.
+⭐ **Thanks for visiting my profile!**  
+*If you find a project useful, feel free to star the repository and share your feedback.*
 
 </div>
