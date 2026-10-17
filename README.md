@@ -23,7 +23,7 @@
 </p>
 
 ![Public repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMSDIAN124&query=%24.public_repos&label=Public%20repos&style=for-the-badge&color=blue)
-![Profile views](https://komarev.com/ghpvc/?username=MSDIAN124)
+<img src="https://komarev.com/ghpvc/?username=MSDIAN124&style=for-the-badge&color=brightgreen" alt="Profile views" />
 </div>
 ---
 
