@@ -6,6 +6,7 @@
 
 *Turning data into insights, one query at a time.*
 
+
 <p>
   <a href="https://mukesh-portfolio-navy.vercel.app/">
     <img src="https://img.shields.io/badge/🌐_Portfolio-Visit%20Website-0ea5e9?style=for-the-badge" alt="Visit portfolio" />
@@ -21,11 +22,10 @@
   </a>
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMSDIAN124&query=%24.public_repos&label=Public%20repos&style=for-the-badge&color=blue" alt="Public repositories" />
-</p>
+![Public repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMSDIAN124&query=%24.public_repos&label=Public%20repos&style=for-the-badge&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=MSDIAN124&utm_source=chatgpt.com)
+
 </div>
-![Profile views](https://komarev.com/ghpvc/?username=MSDIAN124&style=for-the-badge&color=brightgreen)
 ---
 
 ## 🙋‍♂️ About Me
